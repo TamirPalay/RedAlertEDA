@@ -8,7 +8,7 @@ Built during the escalation of March 2026.
 
 ## 📊 Dashboard Preview
 
-> *(Add your Power BI screenshot here)*
+![alt text](<overall screenshot.png>)
 
 ---
 
