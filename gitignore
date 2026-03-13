@@ -1,0 +1,16 @@
+# Data files — too large and contain live data
+redalert_data.csv
+redalert_data_enriched.csv
+redalert_sequences.csv
+
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
